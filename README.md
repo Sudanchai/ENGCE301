@@ -14,6 +14,8 @@ google doc
 
 [Lab5](https://docs.google.com/document/d/1yarUOj99CABfb8CcBRoHnIKXzrNJpo29PvRHUGMi4Jw/edit?usp=drive_link)
 
+[Lab6](https://docs.google.com/document/d/136BPeHDa_WZibORCU3-N7WlJWlVsbfsA-Mnmh8UOgp8/edit?usp=sharing)
+
 github
 
 [Lab6](https://github.com/Sudanchai/engce301-lab6-deploy.git)
