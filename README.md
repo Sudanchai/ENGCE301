@@ -1,5 +1,5 @@
 # ENGCE301
 
-##สารบัญ
+## สารบัญ
 
-[GitHub Pages](https://pages.github.com/)
+[Lab1 google doc](https://pages.github.com/)
